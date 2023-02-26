@@ -134,7 +134,7 @@ export const sendEmail = (
 ) => {
   emailjs
     .send(
-      'service_exjjrs9',
+      'service_a0iqfla',
       'template_r9a3jbu',
       {
         to_email: receiverEmail,
